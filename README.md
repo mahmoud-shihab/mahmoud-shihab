@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **mahmoud.a.shihab@gmail.com**
 
-- ⚡ Fun fact **If you are into Video Games, Board Games, or Tabletop Roleplaying Games, we can be friends!**
+- ⚡ Fun fact: **If you are into Video Games, Board Games, or Tabletop Roleplaying Games, we can be friends!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

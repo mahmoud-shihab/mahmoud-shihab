@@ -254,5 +254,12 @@
             width="40"
             height="40" />
     </a>  
+    <a href="https://www.linkedin.com/in/mahmoud-shihab/details/certifications/1713212033027/single-media-viewer/?profileId=ACoAAAp2v7cBf76G45VKxJv_6rmSenEoFDEqCc8" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img
+            src="http://media.smapply.io/media/awssmapply2/reviewrooms/ictc-ctic/logo/ictc-logo-icon-colour.png"
+            alt="postman"
+            width="40"
+            height="40" />
+    </a>  
 </p>
 <!--  -->

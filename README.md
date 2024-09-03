@@ -76,7 +76,7 @@
 <p align=""left>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img
-            src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
+            src="https://numpy.org/images/logo.svg"
             alt="pandas"
             width="40"
             height="40" />

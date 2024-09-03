@@ -250,21 +250,21 @@
     <a href="https://www.credly.com/badges/162ccac1-95c3-4106-9a02-cc5999da8926/linked_in_profile" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img
             src="https://images.credly.com/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png"
-            alt="postman"
+            alt="PCEP Certification"
             width="40"
             height="40" />
     </a>
-    <a href="https://www.credly.com/earner/earned/badge/2381e62b-5e35-438b-8bc0-d472320edf12" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <a href="https://www.credly.com/badges/2381e62b-5e35-438b-8bc0-d472320edf12/public_url" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img
             src="https://images.credly.com/size/680x680/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png"
-            alt="postman"
+            alt="WES Certification"
             width="40"
             height="40" />
     </a>  
     <a href="https://www.linkedin.com/in/mahmoud-shihab/details/certifications/1713212033027/single-media-viewer/?profileId=ACoAAAp2v7cBf76G45VKxJv_6rmSenEoFDEqCc8" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img
             src="http://media.smapply.io/media/awssmapply2/reviewrooms/ictc-ctic/logo/ictc-logo-icon-colour.png"
-            alt="postman"
+            alt="ICTC ITP Certification"
             width="40"
             height="40" />
     </a>  

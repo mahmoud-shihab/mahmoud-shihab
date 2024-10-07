@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mahmoud</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mahmoud</h1> -->
+<p align="center"><img style="{}" src="./assets/images/IntroBanner.gif"></p>
 <h3 align="center">A passionate data expert and side of HTML, CSS, SASS, JS, and API from Egypt</h3>
 
 - 🌱 I’m currently learning:
   - **Computer Science Masters via The Georgia Institute of Technology Online Masters Program**
-  - **FullStack Development via BrainStation Software Engineering Bootcamp**
+
+- 💡 To learn:
+  - Typescript
+  - Next.js
+  - Tailwind CSS
+
+- 🔭 I'm currently working on: 
+  - Dragon Drop
+  - Pantry App (Name in Progress)
+  - Discord Bot
 
 - 💬 Ask me about:
   - **Data Science**
@@ -12,6 +22,10 @@
   - **Front- and Backend Development**
 
 - 📫 How to reach me: **mahmoud.a.shihab@gmail.com**
+
+- 📄 Know about my experiences: 
+  - [Resume](https://www.mshihab.dev/assets/mahmoud-shihab-resume-D9iuPypM.pdf)
+  - [Portfolio](https://www.mshihab.dev/)
 
 - ⚡ Fun fact: **If you are into Video Games, Board Games, or Tabletop Roleplaying Games, we can be friends!**
 

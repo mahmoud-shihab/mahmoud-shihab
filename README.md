@@ -11,7 +11,7 @@
   - Tailwind CSS
 
 - 🔭 I'm currently working on: 
-  - [Dragon Drop](https://dragon-drop-kappa.vercel.app/)
+  - [Dragon Drop](https://dragon-drop-kappa.vercel.app/) (Still in early development)
   - Pantry App (Name in Progress)
   - Discord Bot
 

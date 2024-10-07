@@ -256,7 +256,7 @@
     </a>
     <a href="https://www.credly.com/badges/2381e62b-5e35-438b-8bc0-d472320edf12/public_url" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img
-            src="https://images.credly.com/size/680x680/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png"
+            src="https://images.credly.com/size/340x340/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png"
             alt="WES Certification"
             width="40"
             height="40" />
